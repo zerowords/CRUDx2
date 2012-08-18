@@ -1,4 +1,4 @@
 CRUDx2
 ======
 
-A double layer CRUD based on cpfthw, maybe a CMS
+A double layer CRUD based on github fRuiApps/cpfthw, maybe a CMS
